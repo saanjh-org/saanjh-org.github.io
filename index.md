@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Our Mission
+## Saanjh Mission
         
 We are dedicated to making a difference in the community by providing support and resources to those in need.
 
