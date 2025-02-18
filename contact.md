@@ -8,7 +8,7 @@ permalink: /contact
 [Facebook Profile](https://www.facebook.com/profile.php?id=61571939780453)
 
 ### Instagram
-[Insta](https://www.instagram.com/saanjh.ca)
+[Instagram](https://www.instagram.com/1_saanjh)
 
 ### Email
 [Email Us](mailto:saanjh.proj@gmail.com)
