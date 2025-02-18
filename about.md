@@ -4,5 +4,5 @@ title: Saanjh
 permalink: /about
 ---
 
-SAANJH 
-Oneness Commune for Harmony in Society
+## Saanjh 
+## Oneness Commune for Harmony in Society
