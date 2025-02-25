@@ -33,19 +33,20 @@ To empower teachers with the skills, confidence, and support they need to succee
 
 Participants for the retreat will be selected through an essay competition.
 
+For complete and detailed instructions, please read: [checklist](https://www.dropbox.com/scl/fi/1fcgqwb8kc4mx6xy0nimw/instructions-to-participate.pdf?rlkey=c4b5vomarsdu7ra8gxfxzobvo&st=h0j955mr&dl=0)
+
+<div style="align: center">
+<p style="text-align: left; width: 600px; margin: 0 auto;">
+
 🔹 Eligibility: Teachers (up to 37 years old) from Punjabi universities/colleges<br/>
 🔹 Submission: Research Essay Competition 2025<br/>
-🔹 Topics (Choose one for your essay):<br/>
-1️⃣ The Role of Punjabi/Gurmukhi in Education<br/>
-2️⃣ Reading Habits and Interest Among Students<br/>
-3️⃣ Teachers’ Contribution to Student Development<br/>
-4️⃣ Challenges, Future, and Reforms in Education<br/>
-5️⃣ Education: Heritage vs. Modern Models<br/>
+🔹 Topic can be chosen from the five selected ones as per checklist above<br/>
 
 📅 Submission Deadline: March 10, 2025 (via email)<br/>
 📢 Results Announcement: March 20, 2025<br/>
 🎓 Workshop & Award Ceremony: April 12, 2025, Mohali<br/>
-
+</p>
+</div>
 ## Date 12th April 2025
 
 Join us on April 12th for a get-together, designed to build relationships based on trust and understanding. Engage in meaningful dialogue with thought leaders and contribute to creating a positive and supportive community.
