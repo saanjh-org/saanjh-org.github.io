@@ -33,7 +33,9 @@ To empower teachers with the skills, confidence, and support they need to succee
 
 Participants for the retreat will be selected through an essay competition.
 
-For complete and detailed instructions, please read: [checklist](https://www.dropbox.com/scl/fi/1fcgqwb8kc4mx6xy0nimw/instructions-to-participate.pdf?rlkey=c4b5vomarsdu7ra8gxfxzobvo&st=h0j955mr&dl=0)
+<div style="background-color:orange; padding: 10px;">
+For complete and detailed instructions, please read: <a href="https://www.dropbox.com/scl/fi/1fcgqwb8kc4mx6xy0nimw/instructions-to-participate.pdf?rlkey=c4b5vomarsdu7ra8gxfxzobvo&st=h0j955mr&dl=1"><b>Checklist</b></a>
+</div>
 
 <div style="align: center">
 <p style="text-align: left; width: 600px; margin: 0 auto;">
