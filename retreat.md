@@ -44,8 +44,8 @@ For complete and detailed instructions, please read: <a href="https://www.dropbo
 🔹 Submission: Research Essay Competition 2025<br/>
 🔹 Topic can be chosen from the five selected ones as per checklist above<br/>
 
-📅 Submission Deadline: March 10, 2025 (via email)<br/>
-📢 Results Announcement: March 20, 2025<br/>
+📅 Submission Deadline: March 16, 2025 (via email)<br/>
+📢 Results Announcement: March 25, 2025<br/>
 🎓 Workshop & Award Ceremony: April 12, 2025, Mohali<br/>
 </p>
 </div>
