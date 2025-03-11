@@ -40,12 +40,13 @@ For complete and detailed instructions, please read: <a href="https://www.dropbo
 <div style="align: center">
 <p style="text-align: left; width: 600px; margin: 0 auto;">
 
-🔹 Eligibility: Teachers (up to 37 years old) from Punjabi universities/colleges<br/>
+🔹 Eligibility: Teachers (up to 45 years old) from Punjabi universities/colleges<br/>
+🔹 Registration Deadline: 16 March 2025 <br/>
 🔹 Submission: Research Essay Competition 2025<br/>
 🔹 Topic can be chosen from the five selected ones as per checklist above<br/>
 
-<span style="background-color:orange; padding: 10px;">📅 Submission Deadline: March 16, 2025 (via email <a href="mailto:saanjh.retreat@gmail.com">saanjh.retreat@gmail.com</a>)<br/></span>
-📢 Results Announcement: March 25, 2025<br/>
+<span style="background-color:orange; padding: 10px;">📅 Submission Deadline: March 30, 2025 (via email <a href="mailto:saanjh.retreat@gmail.com">saanjh.retreat@gmail.com</a>)<br/></span>
+📢 Results Announcement: April 6, 2025<br/>
 🎓 Workshop (for winners): April 12, 2025, Mohali<br/>
 🏢 Results and location details will be shared via email.
 </p>
