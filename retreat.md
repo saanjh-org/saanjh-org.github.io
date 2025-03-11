@@ -19,7 +19,7 @@ To build a community of teachers who grow, learn, and thrive together as leaders
 
 ## ਨਿਸ਼ਾਨਾ
 
-ਅਧਿਆਪਕਾਂ ਦੇ ਇਕ ਅਜਿਹੇ ਭਾਈਚਾਰਕ ਪਰਿਵਾਰ ਦੀ ਵਿਉਂਤਬੰਦੀ, ਜਿਥੇ ਉਹ (ਆਪਣੀ ਅਤੇ ਸਮਾਜ ਦੀ) ਸਾਰਥਕ ਤਬਦੀਲੀ ਲਈ ਸਮੂਹਿਕ ਰੂਪ ਵਿਚ ਆਗੂ ਵਜੋਂ ਸਿਖਣ, ਸਫਲਤਾ ਹਾਸਿਲ ਕਰਨ ਅਤੇ ਅਗਾਂਹ ਵਧਣ  ਲਈ ਤਤਪਰ ਹੋਣ!
+ਅਧਿਆਪਕਾਂ ਦੇ ਇਕ ਅਜਿਹੇ ਭਾਈਚਾਰਕ ਪਰਿਵਾਰ ਦੀ ਵਿਉਂਤਬੰਦੀ, ਜਿਥੇ ਉਹ (ਆਪਣੀ ਅਤੇ ਸਮਾਜ ਦੀ) ਸਾਰਥਕ ਤਬਦੀਲੀ ਲਈ ਸਮੂਹਿਕ ਰੂਪ ਵਿਚ ਆਗੂ ਵਜੋਂ ਸਿਖਣ, ਸਫਲਤਾ ਹਾਸਿਲ ਕਰਨ ਅਤੇ ਅਗਾਂਹ ਵਧਣ ਲਈ ਤਤਪਰ ਹੋਣ!
 
 ## Mission
 
@@ -33,24 +33,25 @@ To empower teachers with the skills, confidence, and support they need to succee
 
 Participants for the retreat will be selected through an essay competition.
 
-<div style="background-color:orange; padding: 10px;">
-For complete and detailed instructions, please read: <a href="https://www.dropbox.com/scl/fi/1fcgqwb8kc4mx6xy0nimw/instructions-to-participate.pdf?rlkey=c4b5vomarsdu7ra8gxfxzobvo&st=h0j955mr&dl=1"><b>Checklist</b></a>
-</div>
+<div style="text-align: left; width: 600px; margin: 0 auto;">
 
-<div style="align: center">
-<p style="text-align: left; width: 600px; margin: 0 auto;">
+<span style="background-color:orange; padding: 5px;">
+Step 1: Please read the complete instructions in checklist: <a href="https://www.dropbox.com/scl/fi/1fcgqwb8kc4mx6xy0nimw/instructions-to-participate.pdf?rlkey=c4b5vomarsdu7ra8gxfxzobvo&st=h0j955mr&dl=1"><b>Checklist</b></a>
+</span>
+<p>Step 2: Choose your essay topic from instructions.</p>
+<p>Step 3: Fill the Registration form: <a href="https://tinyurl.com/saanjh-retreat-form">Click Here</a> <span style="background-color:orange; padding: 5px;">Deadline: 16 March!</span></p>
+<p>Step 4: Submit your essay by March 30, 2025 (via email <a href="mailto:saanjh.retreat@gmail.com">saanjh.retreat@gmail.com</a>)</p>
 
-🔹 Eligibility: Teachers (up to 45 years old) from Punjabi universities/colleges<br/>
-🔹 Registration Deadline: 16 March 2025 <br/>
-🔹 Submission: Research Essay Competition 2025<br/>
-🔹 Topic can be chosen from the five selected ones as per checklist above<br/>
+🔹 Eligibility: Teachers (up to 45 years old) from Punjab universities/colleges<br/>
+🔹 Topic should be chosen from the checklist above<br/>
 
-<span style="background-color:orange; padding: 10px;">📅 Submission Deadline: March 30, 2025 (via email <a href="mailto:saanjh.retreat@gmail.com">saanjh.retreat@gmail.com</a>)<br/></span>
-📢 Results Announcement: April 6, 2025<br/>
+<span style="background-color:orange; padding: 5px;">📅 Submission Deadline: March 30, 2025 (via email <a href="mailto:saanjh.retreat@gmail.com">saanjh.retreat@gmail.com</a>)</span><br/>
+📢 Results Announcement: April 6, 2025 (via email/phone)<br/>
 🎓 Workshop (for winners): April 12, 2025, Mohali<br/>
 🏢 Results and location details will be shared via email.
-</p>
+
 </div>
+
 ## Date 12th April 2025
 
 Join us on April 12th for a get-together, designed to build relationships based on trust and understanding. Engage in meaningful dialogue with thought leaders and contribute to creating a positive and supportive community.
