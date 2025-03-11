@@ -42,7 +42,7 @@ Step 1: Please read the complete instructions in checklist: <a href="https://www
 <p>Step 3: Fill the Registration form: <a href="https://tinyurl.com/saanjh-retreat-form">Click Here</a> <span style="background-color:orange; padding: 5px;">Deadline: 16 March!</span></p>
 <p>Step 4: Submit your essay by March 30, 2025 (via email <a href="mailto:saanjh.retreat@gmail.com">saanjh.retreat@gmail.com</a>)</p>
 
-🔹 Eligibility: Teachers (up to 45 years old) from Punjab universities/colleges<br/>
+🔹 Eligibility: Teachers (up to <b>45 years</b> old) from Punjab universities/colleges<br/>
 🔹 Topic should be chosen from the checklist above<br/>
 
 <span style="background-color:orange; padding: 5px;">📅 Submission Deadline: March 30, 2025 (via email <a href="mailto:saanjh.retreat@gmail.com">saanjh.retreat@gmail.com</a>)</span><br/>
